@@ -1,7 +1,4 @@
 [
-  {
-    "product": "Canola Oil",
-    "month": "NOV",
-    "price": "5,853"
-  },
+    {"Crop": "Wheat", "Month": "January", "Price": "200"},
+    {"Crop": "Corn", "Month": "February", "Price": "150"}
 ]
